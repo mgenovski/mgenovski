@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Mihail 🤖
 
 **I'm a Software Developer based in Sofia, Bulgaria 🇧🇬**
-
+I have 15+ years of interest in web development looking to start a professional career.
 \
 My latest stack:
 <span>
