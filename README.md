@@ -3,7 +3,7 @@
 **I'm a Software Developer based in Sofia, Bulgaria 🇧🇬**
 
 \
-My latest stack:\
+My latest stack:
 <span>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/react.svg" width="15">
 React
