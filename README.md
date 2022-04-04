@@ -1,11 +1,12 @@
 ### 👋 Hi there, I'm Mihail 🤖
 
-**I'm a Software Developer based in Sofia, Bulgaria 🇧🇬**
-
-I have 15+ years of interest in web development looking to start a professional career.
+### About Me
+🎓 &nbsp;I have a Masters's degree in Business Analysis and Projects.\
+💻 &nbsp;Currently studying at <a href="https://softuni.bg/">SoftUni</a>.
+🔭 &nbsp;I have 15+ years of interest in web development and I am looking to start a professional career.
 
 \
-My latest stack:
+**Tech Stack:** 
 <span>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/react.svg" width="15">
 React
@@ -42,6 +43,22 @@ php
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/php.svg" width="15">
 MySQL
 </span> |
+<span>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/jquery.svg" width="15">
+JQuery
+</span> |
+<span>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/bootstrap.svg" width="15">
+Bootstrap
+</span> |
+<span>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/html5.svg" width="15">
+HTML
+</span> |
+<span>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/css3.svg" width="15">
+CSS
+</span>
   
 
 
