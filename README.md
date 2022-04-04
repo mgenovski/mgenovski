@@ -89,3 +89,6 @@ CSS
 <a href="https://github.com/simeon-petrov-5">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgenovski&layout=compact&theme=vue" />
 </a>
+
+### 🤝🏻  &nbsp;Connect with Me
+<a href="mailto:mgenovski@gmail.com"><img src="https://img.shields.io/badge/-mgenovski@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
