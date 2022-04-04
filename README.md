@@ -90,5 +90,5 @@ CSS
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgenovski&layout=compact&theme=vue" />
 </a>
 
-### 🤝🏻  &nbsp;Connect Me
+### 🤝🏻  &nbsp;Connect with Me
 <a href="mailto:mgenovski@gmail.com"><img src="https://img.shields.io/badge/-mgenovski@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
