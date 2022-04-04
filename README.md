@@ -5,8 +5,8 @@
 💻 &nbsp;Currently studying at <a href="https://softuni.bg/">SoftUni</a>.\
 🔭 &nbsp;I have 15+ years of interest in web development and I am looking to start a professional career.
 
-\
-### 🛠️ Tech Stack \ 
+
+### 🛠️ Tech Stack
 <span>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/react.svg" width="15">
 React
@@ -41,8 +41,8 @@ php
 </span> |
 <span>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/php.svg" width="15">
-MySQL
-</span> \
+MySQL\
+</span>
 <span>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/jquery.svg" width="15">
 JQuery
