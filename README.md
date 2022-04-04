@@ -41,8 +41,8 @@ php
 </span> |
 <span>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/php.svg" width="15">
-MySQL\
-</span>
+MySQL
+</span><br />
 <span>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/jquery.svg" width="15">
 JQuery
