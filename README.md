@@ -87,5 +87,5 @@ CSS
   
  
 <a href="https://github.com/simeon-petrov-5">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simeon-petrov-5&layout=compact&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgenovski&layout=compact&theme=vue" />
 </a>
