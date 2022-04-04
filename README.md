@@ -1,10 +1,23 @@
 ### 👋 Hi there, I'm Mihail 🤖
 
-### 🧑‍🦲 About Me
+### 🙋 About Me
 🎓 &nbsp;I have a Masters's degree in Business Analysis and Projects.\
 💻 &nbsp;Currently studying at <a href="https://softuni.bg/">SoftUni</a>.\
-🔭 &nbsp;I have 15+ years of interest in web development and I am looking to start a professional career.
+🌱 &nbsp;I’m currently learning 
+<span>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/angular.svg" width="15">
+Angular
+</span> |
+<span>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/typescript.svg" width="15">
+TS
+</span> |
+<span>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/sass.svg" width="15">
+Sass
+</span>
 
+🔭 &nbsp;I have 15+ years of interest in web development and I am looking to start a professional career.
 
 ### 🛠️ Tech Stack
 <span>
@@ -40,7 +53,7 @@ MongoDB
 php
 </span> |
 <span>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/php.svg" width="15">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/mysql.svg" width="15">
 MySQL
 </span><br />
 <span>
