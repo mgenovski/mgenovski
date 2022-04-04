@@ -3,7 +3,7 @@
 ### 🙋 About Me
 🎓 &nbsp;I have a Masters's degree in Business Analysis and Projects.\
 🔭 &nbsp;I have 15+ years of interest in web development and I am looking to start a professional career.\
-💻 &nbsp;Currently studying at <a href="https://softuni.bg/">SoftUni</a>.\
+💻 &nbsp;Studying at <a href="https://softuni.bg/">SoftUni</a>.\
 🌱 &nbsp;I’m currently learning 
 <span>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/typescript.svg" width="15">
