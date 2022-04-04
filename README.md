@@ -16,6 +16,7 @@ Angular
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/sass.svg" width="15">
 Sass
 </span>
+
 🔭 &nbsp;I have 15+ years of interest in web development and I am looking to start a professional career.
 
 ### 🛠️ Tech Stack
