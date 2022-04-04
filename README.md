@@ -71,4 +71,17 @@ HTML
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/css3.svg" width="15">
 CSS
 </span>
+
+### 🎓 &nbsp;Passed Courses and Certificates
+
+|**Courses**|**Grade**|**Certificates**|
+|:---|:---|:---|
+|<a href="https://softuni.bg/trainings/3367/js-fundamentals-may-2021">JS Fundamentals</a> | 6.00/6.00 | <a href="https://softuni.bg/certificates/details/111208/bc05ea7c">👉📜✔️</a> |
+|<a href="https://softuni.bg/trainings/3487/js-advanced-september-2021">JS Advanced</a> | 6.00/6.00 | <a href="https://softuni.bg/certificates/details/114789/95eab58d">👉📜✔️</a> |
+|<a href="https://softuni.bg/trainings/3488/js-applications-october-2021">JS Applications</a> | 6.00/6.00 | <a href="https://softuni.bg/certificates/details/120892/f07a7599">👉📜✔️</a> |
+|<a href="https://softuni.bg/trainings/3575/reactjs-november-2021">ReactJS</a> | 6.00/6.00 | <a href="https://softuni.bg/certificates/details/122155/1d4f6e63">👉📜✔️</a> |
+|<a href="https://softuni.bg/trainings/3594/js-back-end-january-2022">JS Back-End</a> | 6.00/6.00 | <a href="https://softuni.bg/certificates/details/127458/c10aa56e">👉📜✔️</a> |
+|<a href="https://softuni.bg/trainings/3604/html-and-css-january-2022">HTML & CSS</a> | 6.00/6.00 | <a href="https://softuni.bg/certificates/details/127531/0481b784">👉📜✔️</a> |
+| <a href="https://softuni.bg/trainings/3603/angular-march-2022">Angular</a> | | In progress... 👨‍💻 |
+| Diploma - JS Web Developer | | Soon 👨‍💻 |
   
