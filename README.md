@@ -85,3 +85,7 @@ CSS
 | <a href="https://softuni.bg/trainings/3603/angular-march-2022">Angular</a> | | In progress... 👨‍💻 |
 | Diploma - JS Web Developer | | Soon 👨‍💻 |
   
+ 
+<a href="https://github.com/simeon-petrov-5">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simeon-petrov-5&layout=compact&theme=vue" />
+</a>
