@@ -5,18 +5,17 @@
 💻 &nbsp;Currently studying at <a href="https://softuni.bg/">SoftUni</a>.\
 🌱 &nbsp;I’m currently learning 
 <span>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/angular.svg" width="15">
-Angular
-</span> |
-<span>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/typescript.svg" width="15">
 TS
-</span> |
+</span>,
+<span>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/angular.svg" width="15">
+Angular
+</span>,
 <span>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/sass.svg" width="15">
 Sass
 </span>
-
 🔭 &nbsp;I have 15+ years of interest in web development and I am looking to start a professional career.
 
 ### 🛠️ Tech Stack
@@ -73,16 +72,3 @@ HTML
 CSS
 </span>
   
-
-
-<!--
-- 🔭 I’m currently looking for a job
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
