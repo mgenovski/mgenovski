@@ -92,3 +92,4 @@ CSS
 
 ### 🤝🏻  &nbsp;Connect with Me
 <a href="mailto:mgenovski@gmail.com"><img src="https://img.shields.io/badge/-mgenovski@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mihail-genovski-990470209/"><img src="https://img.shields.io/badge/-Mihail%20Genovski-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
