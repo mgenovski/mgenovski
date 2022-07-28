@@ -6,12 +6,8 @@
 💻 &nbsp;Studying at <a href="https://softuni.bg/">SoftUni</a>.\
 🌱 &nbsp;I’m currently learning 
 <span>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/typescript.svg" width="15">
-TS
-</span>,
-<span>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/angular.svg" width="15">
-Angular
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/svelte.svg" width="15">
+Svelte
 </span>,
 <span>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/sass.svg" width="15">
@@ -42,6 +38,14 @@ Chakra UI
 <span>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/javascript.svg" width="15">
 JS
+</span> |
+<span>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/angular.svg" width="15">
+Angular
+</span> |
+<span>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/typescript.svg" width="15">
+TS
 </span> |
 <span>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/mongodb.svg" width="15">
