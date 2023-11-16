@@ -2,17 +2,8 @@
 
 ### 🙋 About Me
 🎓 &nbsp;I have a Masters's degree in Business Analysis and Projects.\
-🔭 &nbsp;I have 15+ years of interest in web development and I am looking to start a professional career.\
-💻 &nbsp;Studying at <a href="https://softuni.bg/">SoftUni</a>.\
-🌱 &nbsp;I’m currently learning 
-<span>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/svelte.svg" width="15">
-Svelte
-</span>,
-<span>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/sass.svg" width="15">
-Sass
-</span>
+🔭 &nbsp;I have 15+ years of interest in web development.\
+💻 &nbsp;I have 1 year professional experience.\
 
 ### 🛠️ Tech Stack
 <span>
