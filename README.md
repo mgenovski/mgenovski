@@ -3,7 +3,7 @@
 ### 🙋 About Me
 🎓 &nbsp;I have a Masters's degree in Business Analysis and Projects.\
 🔭 &nbsp;I have 15+ years of interest in web development.\
-💻 &nbsp;I have 1 year professional experience.
+💻 &nbsp;I have 1.5 years professional experience.
 
 ### 🛠️ Tech Stack
 <span>
@@ -78,7 +78,6 @@ CSS
 |<a href="https://softuni.bg/trainings/3594/js-back-end-january-2022">JS Back-End</a> | 6.00/6.00 | <a href="https://softuni.bg/certificates/details/127458/c10aa56e">👉📜✔️</a> |
 |<a href="https://softuni.bg/trainings/3604/html-and-css-january-2022">HTML & CSS</a> | 6.00/6.00 | <a href="https://softuni.bg/certificates/details/127531/0481b784">👉📜✔️</a> |
 | <a href="https://softuni.bg/trainings/3603/angular-march-2022">Angular</a> | 6.00/6.00 | <a href="https://softuni.bg/Certificates/Details/133052/4899c8c8">👉📜✔️</a> |
-| Diploma - JS Web Developer | | Soon 👨‍💻 |
   
  
 <a href="https://github.com/simeon-petrov-5">
