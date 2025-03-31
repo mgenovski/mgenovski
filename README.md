@@ -3,7 +3,7 @@
 ### 🙋 About Me
 🎓 &nbsp;I have a Masters's degree in Business Analysis and Projects.\
 🔭 &nbsp;I have 15+ years of interest in web development.\
-💻 &nbsp;I have 1.5 years professional experience.
+💻 &nbsp;I have 2.5 years professional experience.
 
 ### 🛠️ Tech Stack
 <span>
